@@ -1,2 +1,5 @@
 application.properties
 application.properties.local
+/.gitignore
+/_ListaTareas/
+/static/
